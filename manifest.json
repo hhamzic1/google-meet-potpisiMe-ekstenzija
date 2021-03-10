@@ -1,0 +1,17 @@
+{
+    "manifest_version": 2,
+    "name": "Potpiši Me",
+    "version": "1.0",
+    "content_scripts": [
+      {
+        "matches": ["https://meet.google.com/*"],
+        "js": ["content.js"]
+      }
+    ],
+    "permissions": ["tabs", "storage"],
+    "browser_action": {
+      "default_popup": "popup.html",
+      "default_title": "Potpiši me - extension",
+      "defualt_icon": "pen_logo.jpg"
+    }
+  }
