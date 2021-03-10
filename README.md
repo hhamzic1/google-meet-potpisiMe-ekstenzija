@@ -3,4 +3,7 @@
 #### Idete u extension manager u vašem browseru i omogućite developer options. Nakon toga idete na load unpacked i odaberete ovaj folder i spremni ste za korištenje.
 ### Demo slike:
 
-![stack Overflow](https://i.ibb.co/nstWjNV/extension.png)
+![Postavka](https://i.ibb.co/C015kn7/ekstenzija.png)
+![Working](https://i.ibb.co/FncsYLk/working.png)
+
+
